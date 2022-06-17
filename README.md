@@ -1,2 +1,4 @@
 # clean-code-java
-자바 : 클린 코드
+"clean code" 서적에 대한 정리
+
+![ContextLoaderListener](/documents/img/clean-code.jpg)
